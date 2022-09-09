@@ -14,7 +14,7 @@ This project is scaffolded so that you can build a React frontend and Rails
 backend together, and easily deploy them to Heroku.
 
 ## Music App Features
-<ul> 
+<ul>
   <li>Embedded YouTube videos using React-YouTube (a third-party package) to customize the playback experience for users.</li>
   <li>Modeled custom database schema and REST API with Active Record, Postgres, and Ruby on Rails.</li>
 </ul>
