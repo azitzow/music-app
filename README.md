@@ -1,7 +1,4 @@
 # Demo Video
-
-
-
 https://user-images.githubusercontent.com/82430080/202045811-105c76a4-2f1e-4ada-9c1c-da22fec65715.mov
 
 
@@ -74,7 +71,6 @@ npm install --prefix client
 ```
 
 You can use the following commands to run the application:
-
 - `rails s`: run the backend on [http://localhost:3000](http://localhost:3000)
 - `npm start --prefix client`: run the frontend on
   [http://localhost:4000](http://localhost:4000)
