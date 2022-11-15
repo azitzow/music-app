@@ -1,17 +1,23 @@
-#Demo Video
+# Demo Video
 
 
 
 https://user-images.githubusercontent.com/82430080/202045811-105c76a4-2f1e-4ada-9c1c-da22fec65715.mov
 
 
-
 # Project Template: React/Rails API
 
 ## Description
+Reconstructed features similar to those found on Spotify, which allow users to search for their favorite songs, watch music videos, favorite an album, artist, or song, and add their favorite covers/live performances for any song.
 
 This project is scaffolded so that you can build a React frontend and Rails
 backend together, and easily deploy them to Heroku.
+
+## Music App Features
+<ul> 
+  <li>Embedded YouTube videos using React-YouTube (a third-party package) to customize the playback experience for users.</li>
+  <li>Modeled custom database schema and REST API with Active Record, Postgres, and Ruby on Rails.</li>
+</ul>
 
 ## Requirements
 
